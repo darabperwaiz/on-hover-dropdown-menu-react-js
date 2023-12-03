@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/on-hover-dropdown-menu-react-js/static/css/main.aed64729.css",
+    "main.js": "/on-hover-dropdown-menu-react-js/static/js/main.7ff04661.js",
+    "index.html": "/on-hover-dropdown-menu-react-js/index.html",
+    "main.aed64729.css.map": "/on-hover-dropdown-menu-react-js/static/css/main.aed64729.css.map",
+    "main.7ff04661.js.map": "/on-hover-dropdown-menu-react-js/static/js/main.7ff04661.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed64729.css",
+    "static/js/main.7ff04661.js"
+  ]
+}
